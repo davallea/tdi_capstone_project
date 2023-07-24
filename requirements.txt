@@ -126,7 +126,7 @@ streamlit
 tenacity==8.2.2
 terminado==0.17.1
 thinc==8.1.10
-threadpoolctl==3.2.0
+threadpoolctl
 tinycss2==1.2.1
 toml==0.10.2
 tomli==2.0.1
