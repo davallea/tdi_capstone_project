@@ -66,9 +66,9 @@ matplotlib-inline==0.1.6
 mdurl==0.1.2
 mistune==3.0.1
 murmurhash==1.0.9
-nbclient==0.8.0
-nbconvert==7.7.2
-nbformat==5.9.1
+nbclient
+nbconvert
+nbformat
 nest-asyncio==1.5.6
 notebook==7.0.0
 notebook_shim==0.2.3
